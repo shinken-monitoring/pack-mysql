@@ -1,0 +1,1 @@
+${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.slow_queries_rate&target=${host}.${service}.slow_queries_rate_warn&target=${host}.${service}.slow_queries_rate_crit

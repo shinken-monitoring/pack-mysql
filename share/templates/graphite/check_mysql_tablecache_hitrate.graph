@@ -1,0 +1,1 @@
+${uri}render/?width=586&height=308&lineMode=connected&yMax=100&target=${host}.${service}.tablecache_hitrate&target=${host}.${service}.tablecache_fillrate

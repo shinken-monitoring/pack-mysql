@@ -1,0 +1,2 @@
+${uri}render/?width=586&height=308&lineMode=connected&yMax=100&target=${host}.${service}.qcache_hitrate&target=${host}.${service}.qcache_hitrate_now
+${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.selects_per_sec

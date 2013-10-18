@@ -1,0 +1,2 @@
+${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.thread_cache_hitrate&target=${host}.${service}.thread_cache_hitrate_now
+${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.connections_per_sec

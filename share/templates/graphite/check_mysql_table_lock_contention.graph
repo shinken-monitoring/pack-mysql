@@ -1,0 +1,1 @@
+${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.tablelock_contention&target=${host}.${service}.tablelock_contention_crit&target=${host}.${service}.tablelock_contention_warn&target=${host}.${service}.tablelock_contention_now
