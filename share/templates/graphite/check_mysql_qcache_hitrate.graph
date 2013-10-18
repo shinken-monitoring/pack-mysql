@@ -1,0 +1,2 @@
+${uri}render/?width=586&height=308&lineMode=connected&yMax=100&target=legendValue(alias(${host}.${service}.qcache_hitrate%2C%22Query Cache Hitrate AVG%22)%2C%22last%22)&target=legendValue(alias(${host}.${service}.qcache_hitrate_now%2C%22Query Cache Hitrate%22)%2C%22last%22)
+${uri}render/?width=586&height=308&lineMode=connected&target=legendValue(alias(${host}.${service}.selects_per_sec%2C%22Select per sec%22)%2C%22avg%22)
