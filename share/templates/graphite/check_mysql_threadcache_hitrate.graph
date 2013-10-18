@@ -1,2 +1,2 @@
-${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.thread_cache_hitrate&target=${host}.${service}.thread_cache_hitrate_now
-${uri}render/?width=586&height=308&lineMode=connected&target=${host}.${service}.connections_per_sec
+${uri}render/?width=586&height=308&lineMode=connected&target=legendValue(alias(${host}.${service}.thread_cache_hitrate%2C%22Thread cache hitrate AVG%22)%2C%22last%22)&target=legendValue(alias(${host}.${service}.thread_cache_hitrate_now%2C%22Thread cache hitrate%22)%2C%22last%22)
+${uri}render/?width=586&height=308&lineMode=connected&target=legendValue(alias(${host}.${service}.connections_per_sec%2C%22Connection per sec.%22)%2C%22avg%22)
