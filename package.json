@@ -14,17 +14,21 @@
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
 	  },
-          {
-                "name": "Olivier Hanesse",
-                "email": "olivier.hanesse@gmail.com"
-          }
+    {
+      "name": "Olivier Hanesse",
+      "email": "olivier.hanesse@gmail.com"
+    },
+    {
+      "name": "Romain THERRAT",
+      "email": "romain42@gmail.com"
+    }
 	],
 	"repository": "https://github.com/shinken-monitoring/pack-mysql",
 	"keywords": [
 	  "pack",
 	  "database",
 	  "mysql"
-	  
+
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
